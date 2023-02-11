@@ -12,11 +12,11 @@
 - [ok] Deve ser possível atualizar dados do cliente
 - [ok] Deve ser possível obter dados da conta do cliente
 - [ok] Deve ser possível deletar uma conta
-- [] Deve ser possível retornar o balance
+- [ok] Deve ser possível retornar o balance
 
 ---
 
-### Regrás de negócio
+### Regras de negócio
 
 - [ok] Não pode ser possível cadastrar uma conta com CPF já existente
 - [ok] Não pode ser possível fazer depósito em uma conta não existente
